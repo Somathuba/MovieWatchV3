@@ -1,5 +1,5 @@
 const BASE_URL = 'https://api.themoviedb.org/3';
-const API_KEY = 'api_key=3fd2be6f0c70a2a598f084ddfb75487c';
+const API_KEY = 'api_key=f946b8d617c585a3cdec11a8dd704c0d';
 const IMG_PATH = 'https://image.tmdb.org/t/p/w500';
 const BACKDROP_PATH = 'https://image.tmdb.org/t/p/w1280';
 
